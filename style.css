@@ -1,0 +1,32 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: lightgreen;
+}
+
+#galery {
+  background-color: lightgreen;
+}
+
+footer {
+  background-color: rgb(122, 245, 122);
+  padding-top: 10px;
+  padding-bottom: 1px;
+  text-align: center;
+  color: white;
+}
+
+#galery-header {
+  margin-bottom: 30px;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+#contact {
+  background-color: lightgreen;
+}
